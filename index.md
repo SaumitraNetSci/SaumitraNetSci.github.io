@@ -36,4 +36,3 @@ In the past, I have delved into various applications of Network Science includin
 <footer>
     <p class="copyright">© Saumitra Kulkarni 2024.</p>
 </footer>
-
