@@ -14,4 +14,7 @@ In the past, I have delved into various applications of Network Science includin
 <a href="https://twitter.com/SaumitraNetSci?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @SaumitraNetSci</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
+<footer>
+    <p class="copyright">© Saumitra Kulkarni 2024.</p>
+</footer>
 
