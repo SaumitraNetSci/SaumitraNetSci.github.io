@@ -9,7 +9,7 @@ title: Saumitra Kulkarni
 
 I am a Network Science PhD student at the Network Science Institute, Northeastern University, Boston. My current research focuses on understanding Human Behavior through the lens of Computational Social Science and Network Science.
 
-In the past, I have delved into various applications of Network Science including modeling processes on networks, computational biology, financial systems and culinary science. Check out my publications for more details.
+In the past, I have delved into various applications of Network Science including modeling processes on networks, computational biology, financial systems and culinary science. Check out my publications below for more details.
 
 ## Publications
 
