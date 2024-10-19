@@ -2,7 +2,9 @@
 layout: default
 title: Saumitra Kulkarni
 ---
-<img align="left"  width="100" height="100" title="Kaprekar's Tapestry" src="images/tapestry_dp.png">
+<div style="position:relative;"> 
+<img align="left" width="100" height="100"  style="position:absolute; top:50px;" title="Kaprekar's Tapestry" src="images/tapestry_dp.png">
+</div> 
 
 # Saumitra Kulkarni
 
@@ -10,7 +12,7 @@ I am a Network Science PhD student at the Network Science Institute, Northeaster
 
 In the past, I have delved into various applications of Network Science including modeling processes on networks, computational biology, financial systems and culinary science. Check out my publications for more details.
 
-# Publications
+## Publications
 
 - Caprioli, C., **Kulkarni, S.**, Battiston, F., Iacopini, I., Santoro, A. and Latora, V., The networks of ingredient combination in cuisines around the world. arXiv preprint arXiv:2408.15162. (2024)
 
