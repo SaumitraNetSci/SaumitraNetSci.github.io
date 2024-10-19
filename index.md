@@ -3,7 +3,7 @@ layout: default
 title: Saumitra Kulkarni
 ---
 
-<img align="left"  width="100" height="100" title="Kaprekar's Tapestry" src="images/tapestry_dp.png">
+<img align="right"  width="100" height="100" title="Kaprekar's Tapestry" src="images/tapestry_dp.png">
 
 # Saumitra Kulkarni
 
