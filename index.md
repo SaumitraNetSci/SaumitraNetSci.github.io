@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Saumitra's Website
+title: Saumitra Kulkarni
 ---
+# Saumitra Kulkarni
 
 <img align="right"  width="150" height="150" title="Kaprekar's Tapestry" src="images/tapestry_dp.png">
-
-# Saumitra Kulkarni
 
 I am a PhD student at the [Network Science Institute](https://www.networkscienceinstitute.org/) at Northeastern University in Boston. My current research focuses on understanding human behavior through the lens of [Computational Social Science](https://en.wikipedia.org/wiki/Computational_social_science) and [Network Science](https://en.wikipedia.org/wiki/Network_science). I am supervised by [Prof. Esteban Moro](http://estebanmoro.org/).
 
