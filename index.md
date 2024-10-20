@@ -33,5 +33,5 @@ In the past, I have delved into various applications of complex networks, includ
 </div>
 
 <footer>
-    <p class="copyright" style="font-size: 10px">© 2924 Saumitra Kulkarni.</p>
+    <p class="copyright" style="font-size: 12px">© 2024 Saumitra Kulkarni.</p>
 </footer>
