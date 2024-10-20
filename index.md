@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Saumitra Kulkarni
+title: Saumitra's Website
 ---
 
-<img align="right"  width="100" height="100" title="Kaprekar's Tapestry" src="images/tapestry_dp.png">
+<img align="right"  width="150" height="150" title="Kaprekar's Tapestry" src="images/tapestry_dp.png">
 
 # Saumitra Kulkarni
 
