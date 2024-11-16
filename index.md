@@ -2,7 +2,6 @@
 layout: default
 title: Saumitra Kulkarni
 ---
-html {background-color: black}
 
 # Saumitra Kulkarni
 
