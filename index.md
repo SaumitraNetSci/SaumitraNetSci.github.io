@@ -2,6 +2,8 @@
 layout: default
 title: Saumitra Kulkarni
 ---
+html {background-color: black}
+
 # Saumitra Kulkarni
 
 <img align="right"  width="150" height="150" title="Kaprekar's Tapestry" src="images/tapestry_dp.png">
