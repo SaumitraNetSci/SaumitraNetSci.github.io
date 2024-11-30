@@ -7,10 +7,13 @@ title: Saumitra Kulkarni
 
 <img align="right"  width="150" height="150" title="Kaprekar's Tapestry" src="images/tapestry_dp.png">
 
-I am a PhD student at the [Network Science Institute](https://www.networkscienceinstitute.org/), Northeastern University in Boston. My current research focuses on understanding human behavior through the lens of [Computational Social Science](https://en.wikipedia.org/wiki/Computational_social_science) and [Network Science](https://en.wikipedia.org/wiki/Network_science). I am supervised by [Prof. Esteban Moro](http://estebanmoro.org/).
+I am a PhD student at the [Network Science Institute (NetSI)](https://www.networkscienceinstitute.org/), Northeastern University in Boston. Here, I am working within the [Social Urban Networks Lab (SUNLab)](https://www.socialurban.net/) under the supervision of [Prof. Esteban Moro](http://estebanmoro.org/).
 
-In the past, I have delved into various applications of complex networks, including modeling dynamical processes, computational biology, financial systems and culinary science. Check out my publications below for more details.
+My current research focuses on understanding human behavior through the lens of [Computational Social Science](https://en.wikipedia.org/wiki/Computational_social_science) and [Network Science](https://en.wikipedia.org/wiki/Network_science). In the past, I have delved into various applications of complex networks, including models of dynamical processes on networks, computational biology, financial systems and culinary science. Check out my [publications](#Publications) below for more details.
 
+Previously, I was a Lagrange Fellow at the [ISI Foundation](https://www.isi.it/) in Turin, Italy. I have held research positions at the [Institute of Mathematical Sciences](https://www.imsc.res.in/) in Chennai, and the [Department of Scientific Computing, Modeling and Simulation (SCMS)](https://scms.unipune.ac.in/) of [Savitribai Phule Pune University (SPPU)](http://www.unipune.ac.in/) in Pune, India. I received my Master's degree in Mathematical Modeling and Simulation from SCMS-SPPU.
+
+<a name="Publications"></a>
 ## Publications
 
 - **The networks of ingredient combination in cuisines around the world.**\
