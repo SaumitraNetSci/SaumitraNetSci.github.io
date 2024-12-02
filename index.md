@@ -7,7 +7,7 @@ title: Saumitra Kulkarni
 
 <img align="right"  width="150" height="150" title="Kaprekar's Tapestry" src="images/tapestry_dp.png">
 
-I am a PhD student at the [Network Science Institute](https://www.networkscienceinstitute.org/), Northeastern University in Boston. Here, I am working within the [Social Urban Networks Lab](https://www.socialurban.net/) (SUNLab) under the supervision of [Prof. Esteban Moro](http://estebanmoro.org/).
+I am a PhD student at the [Network Science Institute](https://www.networkscienceinstitute.org/) (NetSI), Northeastern University in Boston. Here, I am working within the [Social Urban Networks Lab](https://www.socialurban.net/) (SUNLab) under the supervision of [Prof. Esteban Moro](http://estebanmoro.org/) at NetSI.
 
 My current research focuses on understanding human behavior through the lens of [Computational Social Science](https://en.wikipedia.org/wiki/Computational_social_science) and [Network Science](https://en.wikipedia.org/wiki/Network_science). In the past, I have delved into various applications of complex networks, including models of dynamical processes on networks, computational biology, financial systems and culinary science. Check out my [publications](#Publications) below for more details.
 
