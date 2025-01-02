@@ -40,11 +40,6 @@ Previously, I was a Lagrange Fellow at the [ISI Foundation](https://www.isi.it/)
 <a rel="me" href="https://www.linkedin.com/in/saumitranetsci/">LinkedIn</a>,
 <a rel="me" href="https://mastodon.social/@SaumitraNetSci">Mastodon</a>
 
-
-<div class="Grid container">
-<a href="https://twitter.com/SaumitraNetSci?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">@SaumitraNetSci</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
 <footer>
     <p class="copyright" style="font-size: 12px">© 2024 Saumitra Kulkarni.</p>
 </footer>
