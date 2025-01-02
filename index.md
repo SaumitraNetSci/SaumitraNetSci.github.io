@@ -32,6 +32,15 @@ Previously, I was a Lagrange Fellow at the [ISI Foundation](https://www.isi.it/)
   _Saumitra Kulkarni_, Snehal M Shekatkar\
   arXiv preprint. [arXiv:2211.14043](https://arxiv.org/abs/2211.14043). 2022.
 
+<a name="Contact"></a>
+## Contact
+
+<a rel="me" href="https://x.com/SaumitraNetSci">Twitter/X</a>,
+<a rel="me" href="https://bsky.app/profile/saumitranetsci.bsky.social">bluesky</a>,
+<a rel="me" href="https://www.linkedin.com/in/saumitranetsci/">LinkedIn</a>,
+<a rel="me" href="https://mastodon.social/@SaumitraNetSci">Mastodon</a>
+
+
 <div class="Grid container">
 <a href="https://twitter.com/SaumitraNetSci?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">@SaumitraNetSci</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
