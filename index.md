@@ -36,7 +36,7 @@ Previously, I was a Lagrange Fellow at the [ISI Foundation](https://www.isi.it/)
 ## Contact
 
 <a rel="me" href="https://x.com/SaumitraNetSci">Twitter/X</a>,
-<a rel="me" href="https://bsky.app/profile/saumitranetsci.bsky.social">bluesky</a>,
+<a rel="me" href="https://bsky.app/profile/saumitranetsci.bsky.social">Bluesky</a>,
 <a rel="me" href="https://www.linkedin.com/in/saumitranetsci/">LinkedIn</a>,
 <a rel="me" href="https://mastodon.social/@SaumitraNetSci">Mastodon</a>
 
