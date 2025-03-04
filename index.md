@@ -5,11 +5,11 @@ title: Saumitra Kulkarni
 
 # Saumitra Kulkarni
 
-<img align="right"  width="225" height="225" title="Kaprekar's Tapestry" src="images/netsi_photo.jpeg">
+<img align="right"  width="225" height="225" src="images/netsi_photo.jpeg">
 
 I am a PhD student at the [Network Science Institute](https://www.networkscienceinstitute.org/) (NetSI), Northeastern University in Boston. I am working within the [Social Urban Networks Lab](https://www.socialurban.net/), advised by [Prof. Esteban Moro](http://estebanmoro.org/) at NetSI.
 
-My current research focuses on understanding human behavior through the lens of [Computational Social Science](https://en.wikipedia.org/wiki/Computational_social_science) and [Network Science](https://en.wikipedia.org/wiki/Network_science). In the past, I have delved into various applications of complex networks, including models of dynamical processes on networks, computational biology, financial systems and culinary science. Check out my [publications](#Publications) below for more details.
+I study human behavior in cities using behavioral data and tools from [computational social science](https://en.wikipedia.org/wiki/Computational_social_science) and [network science](https://en.wikipedia.org/wiki/Network_science). In the past, I have delved into various applications of complex networks, including models of dynamical processes on networks, computational biology, financial systems and culinary science. Check out my [publications](#Publications) below for more details.
 
 Previously, I was a Lagrange Fellow at the [ISI Foundation](https://www.isi.it/) in Turin, Italy. I have held research positions at the [Institute of Mathematical Sciences](https://www.imsc.res.in/) in Chennai, and the [Department of Scientific Computing, Modeling and Simulation](https://scms.unipune.ac.in/) (SCMS) of [Savitribai Phule Pune University](http://www.unipune.ac.in/) (SPPU) in Pune, India. I received my Master's degree in Mathematical Modeling and Simulation from SCMS-SPPU.
 
